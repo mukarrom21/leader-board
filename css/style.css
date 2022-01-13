@@ -125,3 +125,13 @@ hr {
     border-radius: 14.6913px;
     padding: 4.01px 5.34px;
 }
+
+/*-----------------------------
+    Media Queries
+---------------------------- */
+
+@media only screen and (max-width:688px) {
+    .top-players {
+        background-color: green;
+      }
+}
